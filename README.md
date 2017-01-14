@@ -18,5 +18,5 @@ Done. The script will present 3 options for virus scanning.
 
 2: To scan the printed working directory
 
-3: Scan the entire system.
+3: Scan the entire filesystem system.
 

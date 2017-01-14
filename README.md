@@ -6,9 +6,12 @@ How to use the script.
 Enter The commands:
 
 wget http://morpheusarch.co.uk/av_script.sh -O av_script.sh
-chmod +x av_script.sh
-./av_script.sh
+#
 
+chmod +x av_script.sh
+#
+./av_script.sh
+#
 Done. The script will present 3 options for virus scanning. 
 
 1: To scan a file
